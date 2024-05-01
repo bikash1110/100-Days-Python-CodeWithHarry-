@@ -1,0 +1,3 @@
+import bikash
+
+bikash.welcome()
